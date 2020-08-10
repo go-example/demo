@@ -12,6 +12,7 @@ require (
 	github.com/go-zk/zk v1.0.0
 	github.com/golang/geo v0.0.0-20200730024412-e86565bf3f35
 	github.com/golang/protobuf v1.4.2 // indirect
+	github.com/gorilla/mux v1.7.4
 	github.com/hashicorp/raft v1.1.2
 	github.com/hashicorp/raft-boltdb v0.0.0-20191021154308-4207f1bf0617
 	github.com/jinzhu/gorm v1.9.15
