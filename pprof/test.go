@@ -13,5 +13,5 @@ func main() {
 		}
 	}()
 
-	http.ListenAndServe("0.0.0.0:6060", nil)
+	http.ListenAndServe("0.0.0.0:8888", nil)
 }
